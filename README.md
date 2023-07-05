@@ -1,9 +1,20 @@
 # Typing-game
 <h1>Juego de mecanografia</h1>
 
-Prueba tus habilidades de escritura mecanografica con este juego.
+Prueba tus habilidades de escritura mecanográfica con este juego.
 ## Instrucciones
-- Escribe correctamente en el recuadro cada una de las palabras de las citas que aparecen en pantalla las cuales se resalten en color <strong background-color: yellow>amarillo</strong>
-- Si la palabra esta mal escrita el recuadro se iluminara de color rojo.
+- Escribe correctamente en el recuadro cada una de las palabras de las citas que aparecen en pantalla las cuales se resalten en color amarillo.
+- Si la palabra está mal escrita el recuadro se iluminará de color rojo.
+  
+![image](https://github.com/Yoel-Gasca/Typing-game/assets/83617933/9eb1815a-84bc-46d7-82dc-c5b4ae0a12e5)
+
+![image](https://github.com/Yoel-Gasca/Typing-game/assets/83617933/110bcb8c-210f-4401-8b92-98a303ccb108)
+
+- Si terminas de escribir cada una de las palabras de la cita de forma correcta se mostrara el tiempo que la tardaste en escribir.
+
+![image](https://github.com/Yoel-Gasca/Typing-game/assets/83617933/996e6fe5-54aa-49de-8f29-4b48f3e8a936)
+
+- Después de terminar puedes volver a darle click al botón de iniciar para escribir las palabras de otra cita.
+
 
   
