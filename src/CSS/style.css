@@ -1,9 +1,31 @@
-/* inside style.css */
+body {
+	font-family: helvetica, arial, sans-serif;
+  /*background-color:#3b3b3b;
+  color: #fdfdfd;*/
+}
+
+input{
+  position: relative;
+}
+
+button{
+  position: relative;
+}
+
 .highlight {
     background-color: yellow;
   }
   
   .error {
+    background-color: lightcoral;
+    border: red;
+  }
+
+  strong{
+    background-color: yellow;
+  }
+
+  .ErrorTyping strong{
     background-color: lightcoral;
     border: red;
   }

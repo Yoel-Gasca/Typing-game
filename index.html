@@ -9,12 +9,14 @@
 <body>
     <h1>Juego de mecanografía</h1>
   <p>Practica tus habilidades de mecanografía con una cita de Sherlock Holmes. ¡Haga clic en el boton de Iniciar para comenzar</p>
-  <p id="quote"></p> <!-- This will display our quote -->
-  <p id="message"></p> <!-- This will display any status messages -->
-  <div>
+  <p>Escribe cada una de las palabras de la siguiente cita cada que estas se resalten en color <strong>amarillo</strong></p>
+  <strong><p id="quote"></p></strong> <!-- This will display our quote -->
+  <strong><p id="message"></p></strong> <!-- This will display any status messages -->
+  <div class="sentence-Typing">
     <input type="text" aria-label="current word" id="typed-value" /> <!-- The textbox for typing -->
     <button type="button" id="start">Iniciar</button> <!-- To start the game -->
   </div>
+  <p class="ErrorTyping">Si la palabra esta mal escrita el recuadro se iluminara de este <strong>color</strong></p>
   <script src="./src/JS/script.js"></script>
 </body>
 </html>

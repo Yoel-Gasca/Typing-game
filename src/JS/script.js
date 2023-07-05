@@ -61,7 +61,7 @@ document.getElementById('start').addEventListener('click', () => {
       // Fin de la frase
       // Mostrar suseso
       const elapsedTime = new Date().getTime() - startTime;
-      const message = `CONGRATULATIONS! You finished in ${elapsedTime / 1000} seconds.`;
+      const message = `¡FELICIDADES! terminaste de escribir la cita en ${elapsedTime / 1000} segundos.`;
       messageElement.innerText = message;
     } else if (typedValue.endsWith(' ') && typedValue.trim() === currentWord) {
       // Fin de la palabra
