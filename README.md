@@ -16,5 +16,11 @@ Prueba tus habilidades de escritura mecanográfica con este juego.
 
 - Después de terminar puedes volver a darle click al botón de iniciar para escribir las palabras de otra cita.
 
+<h3><a href="https://yoel-gasca.github.io/Typing-game/">Juego de mecanografía</a></h3>
 
-  
+  ## Tecnologías utilizadas para este proyecto:<br/>
+- Plataforma del juego: Web <br/>
+- Lenguaje de programación utilizado: JavaScript <br/> <br/>
+
+#### Esta es la evidencia que corresponde al desarrollo del proyecto correspondiente <a href="https://github.com/microsoft/Web-Dev-For-Beginners/blob/main/4-typing-game/translations/README.es.md">Programación basada en Eventos - Construye un juego de Mecanografía</a> del curso <a href="https://github.com/microsoft/Web-Dev-For-Beginners">WEB DEVELOPMENT FOR BEGINNERS</a> de Microsoft.
+
